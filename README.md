@@ -1,21 +1,35 @@
-# Projeto_Integrador-II
+Projeto_Integrador2
 
-# Agenda CTBJ
+# Projeto_Integrador2
+
+**Repositório para a etapa 1**
+
+## Agenda CTBJ — Organização Digital da Rotina Escolar
 
 ### Descrição
-O Agenda CTBJ é um projeto criado para ajudar os alunos a se orgarnizarem melhor durante o ano letivo.A ideia é reunir informações inportantes em um só lugar, como provas,trabalhos,atividades e eventos da escola.
+
+Plataforma criada para ajudar os alunos do CTBJ a organizar sua rotina escolar, reunindo informações sobre provas, trabalhos, atividades e eventos em um único lugar para facilitar o acompanhamento das principais datas escolares.
 
 ### Problema
-Durante o período letivo, muitos alunos acabam esquecendo datas inportantes,principalmente por causa da grande quantidade de atividades e compromissos escolares.
+
+Os alunos precisam acompanhar várias atividades, provas e trabalhos durante o período letivo, o que pode fazer com que algumas datas importantes sejam esquecidas ou fiquem difíceis de encontrar.
 
 ### Solução
-Desenvolver uma plataforma simples que permita aos alunos acompanhar as atividades da escola e consultar datas inportantes de forma rápida.
 
-### Objetivos
-Melhorar a organização dos alunos.
-Facilitar o acompanhamento das atividades escolares.
-Reunir informações Inportantes em um único ambiente.
+O Agenda CTBJ reúne as principais informações escolares em uma agenda digital organizada por datas:
+
+- Provas
+- Trabalhos
+- Atividades
+- Eventos
+
+Isso permite que os alunos consultem suas atividades de forma mais simples e acompanhem melhor sua rotina escolar.
+
+### Objetivo
+
+Facilitar a organização dos alunos, reunindo informações sobre provas, trabalhos, atividades e eventos em um único lugar.
 
 ### Público-alvo
-Alunos do CTBJ>
-Professores do CTBJ.
+
+- Alunos do CTBJ
+- Professores do CTBJ
