@@ -1,4 +1,4 @@
-# 📋 Documento de Requisitos - Agenda CTBJ
+#  Documento de Requisitos - Agenda CTBJ
 
 ## 1. Introdução
 
