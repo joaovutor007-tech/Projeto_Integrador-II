@@ -18,4 +18,4 @@ Reunir informações Inportantes em um único ambiente.
 
 ### Público-alvo
 Alunos do CTBJ>
-Proessores do CTBJ.
+Professores do CTBJ.
