@@ -1,3 +1,15 @@
+# Documento de Arquitetura e Modelagem — CTBJ Conforto
+
+**Projeto:** Agenda CTBJ
+
+**Versão:** 1.2
+
+**Fase:** Etapa II
+
+**Aluno:** João Victor Marques Arnaldo
+
+---
+
 # Fluxograma Inicial — Agenda CTBJ
 
 Diagrama de fluxo referente ao projeto acadêmico **Agenda CTBJ — Organização Digital da Rotina Escolar**, representando as funcionalidades de consulta, cadastro e atualização de informações escolares (provas, trabalhos, atividades e eventos), conforme os requisitos funcionais (RF01–RF08) e regras de negócio (RN01–RN05) definidos no projeto.
